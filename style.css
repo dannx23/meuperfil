@@ -1,0 +1,18 @@
+@charset "UTF-8";
+body{
+    background-color: #D9D9D9;
+}
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+img{
+    margin: 0 auto; display: block;
+}
+p{
+    font-family: 14px Arial, Helvetica, sans-serif;
+
+}
